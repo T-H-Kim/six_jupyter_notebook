@@ -4,7 +4,9 @@ These are tools to help data analyzing for the SIX beamline.
 
 To install the package:
 
-`pip install -e .`
+git clone https://github.com/NSLS-II-SIX/six_jupyter_notebook.git
+
+%%%`pip install -e .`%%%
 
 Documentation about usage of the tools:
 
